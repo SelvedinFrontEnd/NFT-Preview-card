@@ -5,8 +5,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here](https://nftselvedin.netlify.app)
 
 ### Built with
 
